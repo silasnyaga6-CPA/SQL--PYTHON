@@ -2,7 +2,7 @@
 
 
 ## Overview
-Analysis of customer behaviour, retension and live time value for an ecommerce company to improve customer retension and maximize  Revenue. 
+Analysis of customer behaviour, retention and live time value for an ecommerce company to improve customer retension and maximize  Revenue. 
 
 
 
@@ -117,7 +117,7 @@ Analysis of customer behaviour, retension and live time value for an ecommerce c
    - Implement Loyalty/subscriptions programs so stabilize Revenue Fluctuations
    - Apply succesful stragegies from  high spending (2016-2018) cohorts to newer customers
 
-3. **Retension and Churn Prevention** (Customer Retention)
+3. **Retention and Churn Prevention** (Customer Retention)
    - Strengthen 1-2 year with onboarding initiatives and loyalty Rewards
    - Focus on Targeted win-back campaigns for high value churned customers
    - Implement proactive intervention system for at risk customersbefore they lapse
